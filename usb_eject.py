@@ -6,7 +6,6 @@ Eject the usb storage when the usb device plugin your PC!
 from time import sleep
 import http.client
 import subprocess
-
 def monitorUSBStorage():
     label = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S',
     'T','U','V','W','X','Y','Z']
